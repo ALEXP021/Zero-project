@@ -1,12 +1,12 @@
 # Project 0. Guess the number
 
 ## Contents  
-[1. Project description](.README.md#Project=description)  
-[2. What case are we solving?](.README.md#What-case-are-we-solving)  
-[3. Brief information about the data](.README.md#Brief-information-about=the data)  
-[4. Stages of work on the project](.READMEmd#Stages-of=working=on=the-project)  
-[5. Results](.README.md#Results)    
-[6. Conclusions](.README.md#Conclusions) 
+[1. Project description](.README.md###Project=description)  
+[2. What case are we solving?](.README.md###What-case-are-we-solving)  
+[3. Brief information about the data](.README.md###Brief-information-about-the-data)  
+[4. Stages of work on the project](.READMEmd##Stages-of=working=on=the-project)  
+[5. Results](.README.md###Results)    
+[6. Conclusions](.README.md###Conclusions) 
 
 ### Project description    
 Guess the number guessed by the computer in the minimum number of attempts.
